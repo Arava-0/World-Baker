@@ -5,9 +5,11 @@
     "webhookURL": "https://discord.com/api/webhooks/id/token",
 
     "presence": [
-        "Créé avec soin par Arava",
-        "Discord bot template - DJS V14",
-        "Disponible sur GitHub!"
+      "🧱 Conversion de schematics",
+      "🌍 Génération de mondes",
+      "📐 Schematics → Minecraft",
+      "⚙️ Traitement en cours",
+      "🤖 Prêt à construire"
     ],
 
     "color": {

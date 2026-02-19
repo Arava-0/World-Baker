@@ -1,6 +1,10 @@
 # Dependency directory
 node_modules/
 
+# IDE directory
+.vscode/
+.idea/
+
 # Logs files
 *.log
 *.zip
